@@ -17,14 +17,12 @@ margin-left: 0px;
 
 .left{
 position: absolute;
-float: left;
 margin-left: 0px;
 margin-top: 274px;
 }
 
 .right{
 position: absolute;
-float: right;
 margin-left: 1127px;
 margin-top: 266px;
 
@@ -32,7 +30,6 @@ margin-top: 266px;
 
 .logo{
 position: absolute;
-float: right;
 margin-left: 170px;
 margin-top: 27px;
 height: 24px;
