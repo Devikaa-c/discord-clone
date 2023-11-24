@@ -1,59 +1,59 @@
-body{
+body {
   margin: 0;
   width: 100%;
 }
 
-.header{
+.header {
   width: 100%;
-  height:626px;
+  height: 626px;
   background-color: #404eed;
 }
 
-.cloud{
-position: absolute;
-margin-left: 0px;
+.cloud {
+  position: absolute;
+  margin-left: 0px;
 
 }
 
-.left{
-position: absolute;
-margin-left: 0px;
-margin-top: 274px;
+.left {
+  position: absolute;
+  margin-left: 0px;
+  margin-top: 274px;
 }
 
-.right{
-position: absolute;
-margin-left: 1127px;
-margin-top: 266px;
+.right {
+  position: absolute;
+  margin-left: 1127px;
+  margin-top: 266px;
 
 }
 
-.logo{
-position: absolute;
-margin-left: 170px;
-margin-top: 27px;
-height: 24px;
+.logo {
+  position: absolute;
+  margin-left: 170px;
+  margin-top: 27px;
+  height: 24px;
 }
 
-.list{
+.list {
   position: absolute;
   list-style: none;
   display: flex;
   color: white;
   font-size: 16px;
   font-weight: 600;
-  font-family:'font1';
+  font-family: 'font1';
   cursor: pointer;
   margin-top: 30px;
   margin-left: 398px;
 }
 
-.list li{
+.list li {
   margin-left: 33px;
 }
 
-.log-in{
-  font-family:'font1' ;
+.log-in {
+  font-family: 'font1';
   border: none;
   border-radius: 40px;
   font-size: 14px;
@@ -65,18 +65,18 @@ height: 24px;
   margin-top: 20px;
   margin-right: 167px;
   transition: color 0.2s,
-  box-shadow 0.2s;
+    box-shadow 0.2s;
 }
 
-.log-in:hover{
-  color:#5865F2 ;
+.log-in:hover {
+  color: #5865F2;
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
 }
 
-.heading{
-  font-family:'font2';
-  font-size:56px ;
-  font-weight:800;
+.heading {
+  font-family: 'font2';
+  font-size: 56px;
+  font-weight: 800;
   color: white;
   position: absolute;
   margin-top: 188px;
@@ -86,8 +86,8 @@ height: 24px;
   text-align: center;
 }
 
-.subheading{
-  font-family:'font1';
+.subheading {
+  font-family: 'font1';
   font-size: 20px;
   color: white;
   position: absolute;
@@ -100,66 +100,66 @@ height: 24px;
 }
 
 
-.download{
-font-family: 'font1';
-font-size: 20px;
-font-weight: 500;
-height: 56px;
-width: 293.087px;
-border: none;
-border-radius: 28px;
-cursor: pointer;
-margin-top: 422px;
-margin-left: 442px;
-position: absolute;
-transition: color 0.2s,
-box-shadow 0.2s;
+.download {
+  font-family: 'font1';
+  font-size: 20px;
+  font-weight: 500;
+  height: 56px;
+  width: 293.087px;
+  border: none;
+  border-radius: 28px;
+  cursor: pointer;
+  margin-top: 422px;
+  margin-left: 442px;
+  position: absolute;
+  transition: color 0.2s,
+    box-shadow 0.2s;
 
 }
 
-.download:hover{
-  color:#5865F2 ;
+.download:hover {
+  color: #5865F2;
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
 }
 
-.download img{
-  height:25px;
-  width:20px;
+.download img {
+  height: 25px;
+  width: 20px;
 }
 
 
-.open{
-font-family:'font1';
-font-size: 20px;
-font-weight: 500;
-height: 56px;
-width: 293.087px;
-border: none;
-border-radius: 28px;
-cursor: pointer;
-background-color:  #23272A;
-color: #FFFFFF;
-margin-top: 422px;
-margin-left: 759px;
-position: absolute;
-transition: color 0.2s,
-box-shadow 0.2s;
+.open {
+  font-family: 'font1';
+  font-size: 20px;
+  font-weight: 500;
+  height: 56px;
+  width: 293.087px;
+  border: none;
+  border-radius: 28px;
+  cursor: pointer;
+  background-color: #23272A;
+  color: #FFFFFF;
+  margin-top: 422px;
+  margin-left: 759px;
+  position: absolute;
+  transition: color 0.2s,
+    box-shadow 0.2s;
 }
 
-.open:hover{
+.open:hover {
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
   opacity: 0.2s;
 }
 
 
-.grid1{
+.grid1 {
   height: 680px;
   width: 100%;
-  background-color:#ffff;
+  background-color: #ffff;
 
 }
 
-.grid1 img{
+.grid1 img {
   height: 440px;
   width: 678px;
   margin-top: 122px;
@@ -167,7 +167,7 @@ box-shadow 0.2s;
   float: left;
 }
 
-#heading1{
+#heading1 {
   font-family: 'font1';
   font-size: 48px;
   font-weight: 900;
@@ -178,24 +178,24 @@ box-shadow 0.2s;
   line-height: 60px;
 }
 
-.grid1 p{
+.grid1 p {
   font-family: 'font1';
   font-size: 20px;
-  color:#23272A;
+  color: #23272A;
   float: right;
-  margin-top: 0px;  
+  margin-top: 0px;
   margin-right: 142px;
   text-decoration: none;
   line-height: 30px;
 }
 
-.grid2{
+.grid2 {
   height: 680px;
   width: 100%;
   background-color: #f6f6f6;
 }
 
-.grid2 img{
+.grid2 img {
   height: 440px;
   width: 678px;
   margin-top: 122px;
@@ -203,7 +203,7 @@ box-shadow 0.2s;
   float: right;
 }
 
-#heading2{
+#heading2 {
   font-family: 'font1';
   font-size: 48px;
   font-weight: 900;
@@ -214,10 +214,10 @@ box-shadow 0.2s;
   line-height: 60px;
 }
 
-.grid2 p{
+.grid2 p {
   font-family: 'font1';
   font-size: 20px;
-  color:#23272A;
+  color: #23272A;
   float: left;
   margin-top: -22px;
   margin-left: 190px;
@@ -225,13 +225,13 @@ box-shadow 0.2s;
   text-decoration: none;
 }
 
-.grid3{
+.grid3 {
   height: 680px;
   width: 100%;
-  background-color:#ffff;
+  background-color: #ffff;
 }
 
-.grid3 img{
+.grid3 img {
   height: 440px;
   width: 678px;
   margin-top: 122px;
@@ -239,7 +239,7 @@ box-shadow 0.2s;
   float: left;
 }
 
-#heading3{
+#heading3 {
   font-family: 'font1';
   font-size: 48px;
   font-weight: 900;
@@ -250,31 +250,31 @@ box-shadow 0.2s;
   line-height: 60px;
 }
 
-.grid3 p{
+.grid3 p {
   font-family: 'font1';
   font-size: 20px;
-  color:#23272A;
+  color: #23272A;
   float: left;
-  margin-top: -180px;  
+  margin-top: -180px;
   margin-left: 1000px;
   text-decoration: none;
   line-height: 30px;
 }
 
-.grid4{
+.grid4 {
   height: 1058.55px;
   width: 100%;
   background-color: #f6f6f6;
 }
 
-.grid4 img{
+.grid4 img {
   height: 715.55px;
   width: 1180px;
   margin-left: 170px;
   margin-top: 261px;
 }
 
-#heading4{
+#heading4 {
   font-family: 'font2';
   font-size: 40px;
   font-weight: 800;
@@ -285,29 +285,29 @@ box-shadow 0.2s;
   width: 980px;
 }
 
-.grid4 p{
+.grid4 p {
   font-family: 'font1';
   font-size: 20px;
-  color:#23272A;
+  color: #23272A;
   line-height: 30px;
   text-decoration: none;
   text-align: center;
 }
 
-.grid5{
+.grid5 {
   height: 284.4px;
-  width:100%;
+  width: 100%;
   background-color: #f6f6f6;
 }
 
-.grid5 img{
+.grid5 img {
   margin-left: 500px;
   margin-top: -2px;
   height: 49px;
   width: 531px;
 }
 
-.grid5 p{
+.grid5 p {
   font-family: 'font1';
   font-size: 32px;
   font-weight: 900;
@@ -316,47 +316,47 @@ box-shadow 0.2s;
   margin-top: -33px;
 }
 
-#button3{
-font-family: 'font1';
-font-size: 20px;
-font-weight: 500;
-line-height: 24px;
-height: 56px;
-width: 293.087px;
-border: none;
-border-radius: 28px;
-cursor: pointer;
-margin-top: 10px;
-margin-left: 610px;
-position: absolute;
-color: #ffff;
-background-color:#5865F2;
-border-color: #5865F2;
+#button3 {
+  font-family: 'font1';
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  height: 56px;
+  width: 293.087px;
+  border: none;
+  border-radius: 28px;
+  cursor: pointer;
+  margin-top: 10px;
+  margin-left: 610px;
+  position: absolute;
+  color: #ffff;
+  background-color: #5865F2;
+  border-color: #5865F2;
 }
 
-#button3 img{
-  height:24px ;
+#button3 img {
+  height: 24px;
   width: 24px;
   margin-top: -17px;
   margin-left: 7px;
   color: #ffff;
 }
 
-.footer{
+.footer {
   height: 610px;
   width: 100%;
   background-color: #23272A;
 }
 
-.first{
+.first {
   height: 340px;
   width: 30%;
   cursor: pointer;
- 
+
 
 }
 
-.first1{
+.first1 {
   height: 18px;
   width: 280px;
   padding-top: 100px;
@@ -364,12 +364,13 @@ border-color: #5865F2;
   display: flex;
 }
 
-#image{
+#image {
   height: 16px;
   width: 24px;
   margin-left: 60px;
 }
-#select{
+
+#select {
   font-family: 'font1';
   font-size: 14px;
   height: 18px;
@@ -380,35 +381,37 @@ border-color: #5865F2;
   margin-left: 10px;
 }
 
-#arrow{
+#arrow {
   height: 14px;
   width: 12px;
 }
-.first2{
+
+.first2 {
   height: 24px;
   display: flex;
   flex-direction: row;
 
 }
 
-.app-logo{
+.app-logo {
   margin-top: 47px;
   margin-left: 30px;
   padding-left: 96px;
 }
 
-.app-logo li{
+.app-logo li {
   list-style: none;
   display: inline;
   margin-left: 30px;
 }
-.app-logo img{
+
+.app-logo img {
   height: 20px;
   width: 20px;
 }
 
 
-.second{
+.second {
   height: 356px;
   width: 17.5%;
   display: list-item;
@@ -416,7 +419,7 @@ border-color: #5865F2;
   margin-top: -276px;
 }
 
-.second1{
+.second1 {
   color: #5865F2;
   font-family: 'font1';
   font-size: 16px;
@@ -424,7 +427,7 @@ border-color: #5865F2;
 
 }
 
-.second2 li{
+.second2 li {
   color: #FFFFFF;
   font-family: 'font1';
   font-size: 16px;
@@ -433,7 +436,7 @@ border-color: #5865F2;
   margin-top: 10px;
 }
 
-.third{
+.third {
   height: 356px;
   width: 17.5%;
   display: list-item;
@@ -441,14 +444,14 @@ border-color: #5865F2;
   margin-top: -372px;
 }
 
-.third1{
+.third1 {
   color: #5865F2;
   font-family: 'font1';
   font-size: 16px;
   margin-left: 40px;
 }
 
-.third2 li{
+.third2 li {
   color: #FFFFFF;
   font-family: 'font1';
   font-size: 16px;
@@ -457,7 +460,7 @@ border-color: #5865F2;
   margin-top: 10px;
 }
 
-.fourth{
+.fourth {
   height: 356px;
   width: 17.5%;
   display: list-item;
@@ -465,14 +468,14 @@ border-color: #5865F2;
   margin-top: -372px;
 }
 
-.fourth1{
+.fourth1 {
   color: #5865F2;
   font-family: 'font1';
   font-size: 16px;
   margin-left: 40px;
 }
 
-.fourth2 li{
+.fourth2 li {
   color: #FFFFFF;
   font-family: 'font1';
   font-size: 16px;
@@ -481,7 +484,7 @@ border-color: #5865F2;
   margin-top: 10px;
 }
 
-.fifth{
+.fifth {
   height: 356px;
   width: 17.5%;
   display: list-item;
@@ -489,14 +492,14 @@ border-color: #5865F2;
   margin-top: -372px;
 }
 
-.fifth1{
+.fifth1 {
   color: #5865F2;
   font-family: 'font1';
   font-size: 16px;
   margin-left: 40px;
 }
 
-.fifth2 li{
+.fifth2 li {
   color: #FFFFFF;
   font-family: 'font1';
   font-size: 16px;
@@ -505,15 +508,15 @@ border-color: #5865F2;
   margin-top: 10px;
 }
 
-.sixth{
+.sixth {
   height: 1px;
   width: 1180px;
-  background-color:#5865F2 ;
+  background-color: #5865F2;
   margin-left: 146px;
   margin-top: 29px;
 }
 
-.seventh img{
+.seventh img {
   position: absolute;
   float: right;
   margin-left: 146px;
@@ -521,8 +524,8 @@ border-color: #5865F2;
   height: 24px;
 }
 
-.seventh button{
-  font-family:'font1' ;
+.seventh button {
+  font-family: 'font1';
   border: none;
   border-radius: 40px;
   font-size: 14px;
@@ -537,8 +540,7 @@ border-color: #5865F2;
   color: #FFFFFF;
 }
 
-.seventh button:hover{
+.seventh button:hover {
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
   opacity: 0.2s;
 }
-
